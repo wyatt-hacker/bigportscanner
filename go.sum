@@ -1,0 +1,4 @@
+golang.org/x/net v0.50.0 h1:c5qV36ajHpdj4Qi0GnE0jUc/yuo33OLFaa0d+crTD5s=
+golang.org/x/net v0.50.0/go.mod h1:7J/q0vdqvFKEkZKCBqPvqPvDNqKnfPOUdMLJMJqFmCo=
+golang.org/x/sys v0.41.0 h1:QWZLBqD+7Kqb+4Eq/qJGXVXJqLlXKqHLJJJKqJJJJqM=
+golang.org/x/sys v0.41.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
