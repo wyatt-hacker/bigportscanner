@@ -47,6 +47,8 @@ func getArpEntries() (map[string]string, error) {
 
 }
 
+func icmpSweep()
+"""
 func main() {
 	result, err := getArpEntries()
 
@@ -59,3 +61,4 @@ func main() {
 		}
 	}
 }
+""
